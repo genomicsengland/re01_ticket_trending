@@ -14,7 +14,7 @@ Subject topics being tackled 
 
 This information will allow us to identify the most common pain-points in our users' RE experience and proactively allocate our time and resources accordingly. If we receive an increase in tickets relating to a particular workflow, for example, our bioinformaticians may prioritise workflow improvements in their sprint work. 
 
-_Note: This project was developed by Alexander Ho (Bioinformatician in the RE1 squad, reachable on Slack or by email: alexander.ho@genomicsengland.co.uk) _
+**Note: This project was developed by Alexander Ho (Bioinformatician in the RE1 squad, reachable on Slack or by email: alexander.ho@genomicsengland.co.uk)**
 
 **1.2. General approach**
 
