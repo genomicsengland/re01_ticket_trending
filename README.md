@@ -1,4 +1,4 @@
-### Ticket Trending for RE1 ###
+### Ticket Trending for RE1 - IN DEVELOPMENT ###
 
 **1. Project Overview**
 
